@@ -22,7 +22,8 @@
       "properties": {
         "marker-color": "#263dd7",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "Alamat": "jalan semampir"
       },
       "geometry": {
         "type": "Point",

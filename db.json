@@ -1,13 +1,14 @@
 {
-  "type": "FeatureCollection",
-  "features": [
+  "type": "data",
+  "lokasimaps": [
     {
-      "type": "Feature",
+      "type": "lokasimaps",
       "properties": {
         "marker-color": "#2424d9",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Alamat": "Jalan Kenjeran"
+        "lokasi": "Jalan Kenjeran",
+        "id": 1
       },
       "geometry": {
         "type": "Point",
@@ -18,12 +19,13 @@
       }
     },
     {
-      "type": "Feature",
+      "type": "lokasimaps",
       "properties": {
         "marker-color": "#263dd7",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Alamat": "jalan semampir"
+        "lokasi": "jalan semampir",
+        "id": 2
       },
       "geometry": {
         "type": "Point",

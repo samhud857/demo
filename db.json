@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2424d9",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Alamat": "Jalan Kenjeran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -247.2308349609375,
+          -7.243704405855365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#263dd7",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -247.2560691833496,
+          -7.238169904153334
+        ]
+      }
+    }
+  ]
+}
